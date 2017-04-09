@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RxAndroidExamples</string>
+
+    <string-array name="pilihan">
+        <item>Just String</item>
+        <item>Just Integer</item>
+        <item>Long Integer</item>
+    </string-array>
+</resources>
